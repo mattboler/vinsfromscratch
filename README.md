@@ -1,2 +1,7 @@
-# vinsfromscratch
-Build a visual-inertial navigation system from the ground up with me!
+# VINS from Scratch
+
+An introductory text on the basics of visual-inertial navigation systems (VINS).
+
+## Motivation
+
+## Code Companion
